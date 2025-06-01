@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=fekt-scara
+Description=fekt-scara plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/fekt-scara
+ScriptFile=/usr/share/plymouth/themes/fekt-scara/fekt-scara.script
